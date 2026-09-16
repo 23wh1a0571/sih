@@ -1,0 +1,17 @@
+{
+  "short_name": "SwasthyaSetu",
+  "name": "SwasthyaSetu AI - Emergency Healthcare & Referral Network",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0a0f1d",
+  "theme_color": "#0a0f1d",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Emergency-care frontline healthcare continuity, AI triage, 108 ambulance transit tracking, and multilingual referral network."
+}
